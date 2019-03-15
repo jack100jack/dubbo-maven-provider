@@ -1,0 +1,1 @@
+start cmd /k  "java -jar D:\project\dubbo-maven-provider\target/dubbo-maven-provider-0.0.1-SNAPSHOT.jar" 
